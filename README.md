@@ -16,6 +16,6 @@
 
 
 ----------------------------
-Usuario: analista
+Usuario: admin
 Clave: contra123
 ----------------------------
